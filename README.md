@@ -1,2 +1,2 @@
 # hello-world
-new account
+This repository is created for BA4318 course.
